@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>Antonio Wiege - Drum Up.ogg</file>
+        <file>cubeDstr.wav</file>
+        <file>damage.wav</file>
+        <file>gameOver.wav</file>
+        <file>shot.wav</file>
+        <file>stageUp.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>texturePrototype.png</file>
+        <file>cube.png</file>
+        <file>cubeB.png</file>
+        <file>cubeC.png</file>
+        <file>cubeG.png</file>
+        <file>cubeM.png</file>
+        <file>cubeR.png</file>
+        <file>cubeY.png</file>
+        <file>cubeO.png</file>
+        <file>cubeT.png</file>
+        <file>extruder.png</file>
+        <file>stageBackdrop.png</file>
+        <file>bgTile.png</file>
+    </qresource>
+</RCC>
